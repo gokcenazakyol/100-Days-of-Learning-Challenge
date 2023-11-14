@@ -9,6 +9,8 @@ Sometimes, when the KeyError is raised, it might become a problem. To overcome t
 Defaultdict is a container like dictionaries present in the module collections. Defaultdict is a sub-class of the dictionary class that returns a dictionary-like object. The functionality of both dictionaries and defaultdict are almost same except for the fact that defaultdict never raises a KeyError. It provides a default value for the key that does not exists.
 <img width="763" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/8cfb90af-0ccf-4960-aaa6-a06822fe6a53">
 
+### Solving this problem without sorting and using set:
+<img width="1458" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/50ffbf85-7f83-43f2-bcbd-49d431125811">
 
 ---------------------------------------------------------------------
 ## Day 1: 13 November Mon
