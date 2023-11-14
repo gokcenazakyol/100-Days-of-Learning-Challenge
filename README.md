@@ -1,5 +1,15 @@
 # 100-Days-of-Learning-Challenge
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
+--------------------------------------------------------------------
+## Day 2: 14 November Tue
+### Default Dict
+Dictionary in Python is an unordered collection of data values that are used to store data values like a map. Unlike other Data Types that hold only single value as an element, the Dictionary holds key-value pair. In Dictionary, the key must be unique and immutable. This means that a Python Tuple can be a key whereas a Python List can not. A Dictionary can be created by placing a sequence of elements within curly {} braces, separated by ‘comma’.
+<img width="714" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/373f1d89-bb58-4d6e-acd2-a0bf85efda9d">
+Sometimes, when the KeyError is raised, it might become a problem. To overcome this Python introduces another dictionary like container known as Defaultdict which is present inside the collections module.
+Defaultdict is a container like dictionaries present in the module collections. Defaultdict is a sub-class of the dictionary class that returns a dictionary-like object. The functionality of both dictionaries and defaultdict are almost same except for the fact that defaultdict never raises a KeyError. It provides a default value for the key that does not exists.
+<img width="763" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/8cfb90af-0ccf-4960-aaa6-a06822fe6a53">
+
+
 ---------------------------------------------------------------------
 ## Day 1: 13 November Mon
 ### Bucket Sort
