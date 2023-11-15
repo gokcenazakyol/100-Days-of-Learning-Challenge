@@ -2,6 +2,26 @@
 
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
 
+--------------------------------------------------------------------
+### Day 3: 15 November Wed
+#### Divide and Qonquer
+
+<img width="836" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/ec83f336-2d63-4730-a76a-62a406a00ac0">
+
+#### Recurrence Relation
+##### Recurrence Relation with nlogn
+
+<img width="1463" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/25091531-c994-4bee-9a1c-67aac8d0cd58">
+
+- Time complexity is O(nlogn) because the upper bound for logn! is logn**n and it is equal to nlogn.
+
+<img width="1445" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/438681c9-2ea8-418e-8130-7ccb28a4aea6">
+
+- So the main rule is whatever the term we have, we multiply it with n.
+
+<img width="1432" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/fd2ed3d7-59d2-4d17-9dee-0fa82928f2fb">
+
+
 ---------------------------------------------------------------------
 ### Day 2: 14 November Tue
 #### Default Dict
