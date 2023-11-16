@@ -3,6 +3,34 @@
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
 
 --------------------------------------------------------------------
+### Day 4: 16 November Thu
+#### Recurrence Relation T(n)=2T(n-1) + 1
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/0703a17c-1aa6-45d9-80a1-beb747ddf203)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/3f34fb6f-56f8-4a1e-8d29-8610432972e1)
+
+- The result is theta(2**n).
+
+#### Masters Theorem Decreasing Function
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/d25b9392-e97e-4ccb-ba1c-01e80658876a)
+
+#### Recurrence Relation Dividing Functions
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/a8aef511-23a1-403a-86cf-66b0cddcb1bd)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/add170eb-6389-4e01-a62b-e37612102389)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/dee72a2f-fa94-49ca-a345-7fef5d3549df)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/888488a6-44c3-4642-b085-b90e974e3be2)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/858ac67a-db62-4f3c-abd2-b8a5fcc16d10)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/f2a21c98-d8ef-4fce-90fd-390f8fc42753)
+
+--------------------------------------------------------------------
 ### Day 3: 15 November Wed
 #### Divide and Qonquer
 
