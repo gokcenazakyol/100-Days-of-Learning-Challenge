@@ -3,6 +3,11 @@
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
 
 --------------------------------------------------------------------
+### Day 6: 21 November Tue
+#### Monotonic Stack
+- A monotonic stack is a stack whose elements are monotonically increasing or decreasing. It contains all qualities that a typical stack has and its elements are all monotonic decreasing or increasing.
+
+--------------------------------------------------------------------
 ### Day 5: 17 November Fri
 #### ord() function in Python
 
