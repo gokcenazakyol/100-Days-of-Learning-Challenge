@@ -3,6 +3,15 @@
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
 
 --------------------------------------------------------------------
+### Day 7: 26 November Sun
+#### Zip Syntax in Python
+- Python zip() method takes iterable containers and returns a single iterator object, having mapped values from all the containers.
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/2fdf1a62-d76a-4857-a695-736633816a31)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/64cfd403-2b33-4160-b4cd-c2f4fddca9c0)
+
+
+--------------------------------------------------------------------
 ### Day 6: 21 November Tue
 #### Monotonic Stack
 - A monotonic stack is a stack whose elements are monotonically increasing or decreasing. It contains all qualities that a typical stack has and its elements are all monotonic decreasing or increasing.
