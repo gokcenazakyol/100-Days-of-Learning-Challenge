@@ -3,6 +3,36 @@
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
 
 --------------------------------------------------------------------
+### Day 8: 27 November Mon
+#### Masters Theorem in Algorithms for Dividing Function
+<img width="1074" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/c001a4e3-13e6-4d34-ac5a-ada96b2a76a4">
+
+- For examples, video link is [here](https://www.youtube.com/watch?v=OynWkEj0S-s&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=27).
+
+<img width="975" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/9469ee35-8d75-4406-8621-602f06161898">
+
+<img width="975" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/f89f2f28-31b4-49df-ad8c-e84d471019d8">
+
+<img width="985" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/1aeba935-b017-4984-9ff1-b4aa4cfffa0b">
+
+#### Recurrence Relation on Root Function
+
+<img width="1118" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/593b5a3d-7c44-4b0e-95ed-640344013aa6">
+
+<img width="1047" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/f7223937-2055-48d2-bee0-db04a6b7867e">
+
+#### Binary Search (Iterative Method)
+
+<img width="1271" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/8952561c-b957-453b-b7f6-b9de3c725789">
+
+#### Binaru Search (Recursive Method)
+
+<img width="1399" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/a8fd2241-2de3-420d-9cc4-9b2755a16fda">
+
+<img width="1267" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/585d7f79-ce73-4b5b-872a-6ce397d14225">
+
+
+--------------------------------------------------------------------
 ### Day 7: 26 November Sun
 #### Zip Syntax in Python
 - Python zip() method takes iterable containers and returns a single iterator object, having mapped values from all the containers.
