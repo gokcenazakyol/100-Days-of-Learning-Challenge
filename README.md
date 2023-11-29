@@ -3,6 +3,63 @@
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
 
 --------------------------------------------------------------------
+### Day 9: 29 November Wed
+#### Heap
+- Complete Binary Tree: If you represent a binary tree with an array, there should be no gaps between elements in array to call this binary tree as a complete binary tree. Height of a binary tree is logn.
+- Full Binary Tree: All nodes in levels should be there.
+<img width="1206" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/a1ee45b3-4a3d-4e13-979a-60ed5a24dc6c">
+
+#### Max Heap and Min Heap
+<img width="1067" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/8195282d-5241-4377-826d-47ed7b642697">
+
+#### Insertion
+- Max:O(logn), Min:O(1) time taken.
+
+<img width="1009" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/48c60904-ce05-4f0c-b8ec-972a4d974620">
+
+#### Delete
+- You can only delete the root element in a heap.
+- Max:O(logn), Min:O(1) time taken.
+  
+<img width="1093" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/ef9dbe04-92d3-44be-8512-4b16f7288f64">
+
+<img width="1117" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/87bd1435-0d1d-429a-805b-1d2020bdae30">
+
+#### Heap Sort
+- If you delete the elements and fill the blank spaces with the deleted elements in array, you will get a sorted array. This is the methodolgy of the heap sort.
+
+- First, with the given elements create a heap by inserting elements one by one. Then, once the heap is created, delete the element in the heap one by one. Then elements will be sorted.
+
+- Time taken for creating a heap is O(nlogn)
+
+<img width="1370" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/0229509c-1bb4-4468-b6f8-dceb1b92d514">
+
+- Time taken for deletion a heap is O(nlogn)
+
+<img width="1432" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/ed73f1cd-96ea-4b07-907e-228642cb2fbd">
+
+- So, The total time is O(nlogn).
+
+#### Heapify
+
+- Heapify is a procedure for creating a heap, but the directions differ. Directions will be top to bottom of the heap.
+- The time taken is O(n).
+
+<img width="1349" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/88dc86ff-e12b-4568-bd87-15d2e1f4c2e9">
+
+<img width="1176" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/bbfa6f36-00ba-4e81-a3c1-47da448a4aaa">
+
+<img width="1332" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/bb297e39-483e-4a8b-b644-472086d799a3">
+
+#### Priority Queue
+
+- The time taken for deletion (and also insertion) in a list is O(n). Because after deleting an element, we need to shift rest of the elements in the list.
+- So the best way to use a priority queue is using a heap, because insertion and deletion takes O(n).
+
+<img width="1339" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/f12da512-9a29-4035-8ce9-68d62805fc99">
+
+
+--------------------------------------------------------------------
 ### Day 8: 27 November Mon
 #### Masters Theorem in Algorithms for Dividing Function
 <img width="1074" alt="image" src="https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/c001a4e3-13e6-4d34-ac5a-ada96b2a76a4">
