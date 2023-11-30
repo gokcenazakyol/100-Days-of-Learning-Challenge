@@ -3,6 +3,40 @@
 ![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b6f6f169-7b08-4491-8fba-c2cf034eb510)
 
 --------------------------------------------------------------------
+### Day 10: 30 November Thu
+#### Deep Copy of a Linked List
+- Deep copy of a Linked List means we do not copy the references of the nodes of the original Linked List rather for each node in the original Linked List a new node is created.
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/709dde75-7a37-40c3-acad-66e750ae095b)
+
+#### Floyd-Warshall Algorithm
+- The Floyd-Warshall algorithm, named after its creators Robert Floyd and Stephen Warshall, is a fundamental algorithm in computer science and graph theory. It is used to find the shortest paths between all pairs of nodes in a weighted graph. This algorithm is highly efficient and can handle graphs with both positive and negative edge weights, making it a versatile tool for solving a wide range of network and connectivity problems.
+- Create a fast pointer and slow pointer. Then, find the first intersection of them. Then we are done with the fast pointer. Slow pointer will hold the position of the first intersection. After that, create a second slow pointer and put it beginning of the array. Keep shifting each slow pointers by one and find the second intersection. The second point of the intersection always will be the result.
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/4e4de444-0b2d-408b-8587-966d568fc39a)
+
+#### Least Recently Used (LRU)
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/5153f849-23d5-44ac-bf15-98297b37b834)
+
+#### Two-Way Merge Sort 
+- The difference between two way merge sort and the merge sort is two way merge sort is an iterative algorithm while merge sort is a recursive algorithm.
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/b12a0fc9-5b86-4f93-975b-a9af95cbf64a)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/452d5872-21b3-420b-a9bf-fc96c7687539)
+
+#### Merge Sort
+- O(nlogn)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/60801974-5934-4031-aae7-4f46de679790)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/35e5a5a5-457f-4734-9348-a58b5e2f74f7)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/eab744a8-e513-4934-8837-f11b8d98352d)
+
+![image](https://github.com/gokcenazakyol/100-Days-of-Learning-Challenge/assets/74296174/50a1297e-2b3e-4767-b838-77748135a2a6)
+
+- O(n+logn) extra space -> O(n).
+
+--------------------------------------------------------------------
 ### Day 9: 29 November Wed
 #### Heap
 - Complete Binary Tree: If you represent a binary tree with an array, there should be no gaps between elements in array to call this binary tree as a complete binary tree. Height of a binary tree is logn.
